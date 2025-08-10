@@ -1,0 +1,14 @@
+1. Input Layer
+   - Traffic demand data
+   - Intersection configuration
+   - GA parameters
+
+2. Optimization Engine
+   - Genetic Algorithm
+   - Fitness evaluation
+   - Selection, crossover, mutation
+
+3. Output Layer
+   - Optimized signal timing plans
+   - Performance metrics
+   - Visualization
